@@ -12,3 +12,5 @@ You can reach me through:
 <a href="https://www.frexus.dev">My tech blog</a><br>
 <a href="https://www.linkedin.com/in/ajgutierrezg">linkedin</a><br>
 <a href="https://www.ajgutierr3z.tumblr.com/">Tumbrl</a><br>  
+
+  These are my repos and project at GitHub:
